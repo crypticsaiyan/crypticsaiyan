@@ -1,7 +1,8 @@
 <div align="center" style="font-size: 12px;">
   👋 Hi, I’m Rahul!<br>
-  🎓 **Computer Science Undergraduate** at [IIT (ISM) Dhanbad](https://www.iitism.ac.in/)
+  <p><strong>🎓 Computer Science Undergraduate</strong> at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></p>
 </div>
+
 
 <!---
 crypticsaiyan/crypticsaiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
