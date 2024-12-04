@@ -1,5 +1,5 @@
-#👋 Hi, I’m Rahul!
-##🎓 **Computer Science Undergraduate** at [IIT (ISM) Dhanbad](https://www.iitism.ac.in/).
+# 👋 Hi, I’m Rahul!
+## 🎓 **Computer Science Undergraduate** at [IIT (ISM) Dhanbad](https://www.iitism.ac.in/).
 
 
 <!---
