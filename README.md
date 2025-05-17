@@ -1,11 +1,8 @@
-<div align="center" style="font-size: 12px;">
-  👋 Hi, I’m Rahul!<br>
-  <p><strong>🎓 Computer Science Undergraduate</strong> at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></p>
-</div>
+![Header](./assets/github-header-image.png)
 
-<br>
 <div align = "center">
-  
+
+ # 💻 Tech Stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +28,7 @@
 # 🔝 Top Contributed Repo
 
 <img src="https://github-contributor-stats.vercel.app/api?username=crypticsaiyan&limit=5&theme=dark&combine_all_yearly_contributions=true">
-<img src="https://files.catbox.moe/oy2zw9.gif" style="padding: 30px; margin: 30px;">
+<img src="./assets/pokemonfirered.gif" style="padding: 30px; margin: 30px;">
 </div>
 <!---
 crypticsaiyan/crypticsaiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
