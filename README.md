@@ -18,8 +18,8 @@
 <div align= "center">
   
 # 📊 GitHub Stats:
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=crypticsaiyan&theme=dark&rank_icon=github" />
-<img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypticsaiyan&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=crypticsaiyan&theme=catppuccin_mocha&rank_icon=github" />
+<img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypticsaiyan&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
   
 # 🔝 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=crypticsaiyan&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<img src="https://github-contributor-stats.vercel.app/api?username=crypticsaiyan&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true">
 <img src="./assets/pokemonfirered.gif" style="padding: 30px; margin: 30px;">
 </div>
 <!---
