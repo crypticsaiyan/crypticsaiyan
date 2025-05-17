@@ -28,7 +28,7 @@
 # 🔝 Top Contributed Repo
 
 <img src="https://github-contributor-stats.vercel.app/api?username=crypticsaiyan&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true">
-<img src="./assets/pokemonfirered.gif" style="padding: 30px; margin: 30px;">
+<img src="./assets/rotating-mew.gif" height="300px">
 </div>
 <!---
 crypticsaiyan/crypticsaiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
