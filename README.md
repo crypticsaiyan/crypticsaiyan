@@ -1,4 +1,4 @@
-![Header](./assets/header-image.png)
+![Header](./assets/github-header-image.png)
 
 <div align = "center">
 
