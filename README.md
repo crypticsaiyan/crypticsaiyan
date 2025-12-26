@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +24,7 @@
 
 <div align= "center">
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=crypticsaiyan&theme=catppuccin_mocha" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypticsaiyan&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
 <!-- <img src="https://github-contributor-stats.vercel.app/api?username=crypticsaiyan&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true"> -->
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-# 🎉 GitHub Wrapped:
+## 🎉 GitHub Wrapped:
 
 <img src="./assets/github-wrapped.png" height="300px">
 <img src="./assets/rotating-mew.gif" height="300px" >
